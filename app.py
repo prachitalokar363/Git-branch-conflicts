@@ -1,5 +1,5 @@
 from flask import Flask
-import windows os
+import linux os
 
 app = Flask(__name__)
 
